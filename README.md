@@ -1,3 +1,9 @@
+Es una pagina creada con React usando la api de Rick & Morty, la misma se subio a netlify y se puede ver en el link:
+https://jocular-pudding-52b7ef.netlify.app
+
+el curso se realizo con Udemy.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
